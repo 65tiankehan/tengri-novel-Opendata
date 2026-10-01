@@ -1,5 +1,13 @@
 {
   "version": 1,
   "killSwitch": false,
-  "announcements": []
+  "announcements": [ {
+      "id": "free-refund-notice-20261001",
+      "kind": "notice",
+      "title": "本产品完全免费，如遇收费请退款",
+      "body": "Tengri Novel，不会以任何名义向你收取费用。\n\n如果你是花钱购买得到的本软件，说明你遇到了盗版或倒卖，请立即向购买渠道申请退款，并从官方渠道获取正版。",
+      "publishedAt": "2026-10-01T08:00:00Z",
+      "actionLabel": "官方下载",
+      "actionUrl": "https://github.com/65tiankehan/tengri-novel-releases/releases"
+    }]
 }
